@@ -36,6 +36,13 @@
 
 This open-source project is open to contributions from developers who want to get involved. If you want to contribute to this project or fix issues, please submit a pull request on GitHub.
 
+**[Updated Features]**
+
+● Thanks to the dynamic nature of the dimensions, our logo area can move with the screen whether the screen is maximized or minimized. In the previous version, the logo position was fixed and remained in an awkward position even when the screen was enlarged.
+
+![kk](https://github.com/blockchaindotjs/stockmanagement/assets/119041962/143a3419-a63c-462f-9768-0d8a8cbe9225)
+
+
 **[License]**
 
 This project is licensed under the *MIT* License.
